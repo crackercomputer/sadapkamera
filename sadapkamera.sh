@@ -17,7 +17,8 @@ echo -e "$blue <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 echo
 
 
-printf " \e[1;77m v1.0 coded by Cracker Computer \e[0m \n"
+printf " \e[1;77m v1.0 coded by thelinuxchoice \e[0m \n"
+printf " \e[1;77m v1.0 decoded by crackercomputer \e[0m \n"
 
 printf "\n"
 
